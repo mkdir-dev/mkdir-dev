@@ -11,4 +11,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node&logoColor=1a9c1d)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=REACT&logoColor=329cd9)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue&logoColor=04b80d)
+![REST API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=04b80d)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+
+## :chart_with_upwards_trend: Рейтинг Codewars
+[![Codewarrior Profile Badges](https://www.codewars.com/users/mkdir_dev/badges/large)](https://www.codewars.com/users/mkdir_dev)
+
+## Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mkdir_dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mkdir-dev/)
