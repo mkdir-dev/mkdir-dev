@@ -1,4 +1,4 @@
-### Я, Михаил Корюков, начинающий Front-end разработчик.
+## Я, Михаил Корюков, начинающий Front-end разработчик.
 
 ## Стек технологий:
 
@@ -14,9 +14,12 @@
 ![REST API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=04b80d)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 
-## :chart_with_upwards_trend: Рейтинг Codewars
+## Рейтинг на Codewars:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/mkdir_dev/badges/large)](https://www.codewars.com/users/mkdir_dev)
 
 ## Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mkdir_dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mkdir-dev/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkdir-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
