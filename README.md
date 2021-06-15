@@ -1,16 +1,22 @@
 ## Я, Михаил Корюков, начинающий Front-end разработчик.
 
+- Люблю разрабатывать пользовательские интерфейсы;
+- ;
+- ;
+- ;
+
 ## Стек технологий:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=e0522b)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=2631c9)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=SASS&logoColor=d13ddb)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=LESS&logoColor=4354bf)
+![Figma](https://shields.io/badge/-Figma-090909?logo=figma&style=for-the-badge&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=WEBPACK&logoColor=2631c9)
-![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node&logoColor=1a9c1d)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node&logoColor=1a9c1d)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=REACT&logoColor=329cd9)
-![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue&logoColor=04b80d)
-![REST API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=API&logoColor=04b80d)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue&logoColor=04b80d)
+![REST API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=api&logoColor=04b80d)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 
 ## Рейтинг на Codewars:
