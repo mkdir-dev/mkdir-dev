@@ -16,7 +16,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=WEBPACK&logoColor=2631c9)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=REACT&logoColor=329cd9)
-![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=Vue)
+![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![REST API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=api&logoColor=04b80d)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
