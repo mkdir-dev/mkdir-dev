@@ -18,7 +18,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=REACT&logoColor=329cd9)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-![REST API](https://img.shields.io/badge/-API-090909?style=for-the-badge&logo=api&logoColor=04b80d)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 
 ## Рейтинг на Codewars:
