@@ -20,6 +20,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-090909?style=for-the-badge&logo=vue.js)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 
 ## Рейтинг на Codewars:
