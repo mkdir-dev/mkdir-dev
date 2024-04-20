@@ -1,10 +1,6 @@
-## Я, Михаил Корюков, Front-end разработчик.
+## Hi, I'm Mikhail, Software Enfineer (Fullstack/Frontend developer).
 
-- Люблю разрабатывать пользовательские интерфейсы;
-- Стремлюсь к понятному коду, понятному не только мне, но и другим;
-- Стараюсь видеть в проекте перспективы по улучшению и доработке, отсюда много планов по реализации различных идей уже существующих проектов;
-
-## Стек технологий:
+## Hard skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=e0522b)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=2631c9)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=SASS&logoColor=d13ddb)
@@ -25,9 +21,9 @@
 [![Codewarrior Profile Badges](https://www.codewars.com/users/mkdir_dev/badges/large)](https://www.codewars.com/users/mkdir_dev)
 
 ## Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mkdir_dev)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mkdir_web_dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mkdir-dev/)
-- ✉️ mkdir-dev@yandex.ru
+- ✉️ mkdir.web.dev@gmail.com
 
 ## Статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkdir-dev)](https://github.com/anuraghazra/github-readme-stats)
