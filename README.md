@@ -1,4 +1,4 @@
-## Hi, I'm Mikhail, Software Enfineer (Fullstack/Frontend developer).
+## Hi, I'm Mikhail, Software Enfineer (Fullstack developer).
 
 ## Hard skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=e0522b)
